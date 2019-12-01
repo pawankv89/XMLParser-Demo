@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://developer.apple.com/news/rss/news.rss" rel="self" type="application/rss+xml" />
+        <title>News - Apple Developer</title>
+        <link>https://developer.apple.com/news/</link>
+        <description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
+        <language>en-US</language>
+        <lastBuildDate>Mon, 03 Jun 2019 12:00:00 PDT</lastBuildDate>
+        <generator>Custom</generator>
+        <copyright>Copyright 2019, Apple Inc.</copyright>
+        <item>
+            <title id = "1" name = "Apple 1" location = "United States of America (USA)">See What’s New on Apple Platforms</title>
+            <link>https://developer.apple.com/news/?id=06032019a</link>
+            <guid>https://developer.apple.com/news/?id=06032019a</guid>
+            <description>Create seamless, intelligent, and engaging experiences with the Xcode 11 beta, which includes the SDKs for iOS 13, watchOS 6, tvOS 13, and macOS Catalina.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Create seamless, intelligent, and engaging experiences with the Xcode 11 beta, which includes the SDKs for iOS 13, watchOS 6, tvOS 13, and macOS Catalina.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "2" name = "Apple 2" location = "United States of America (USA)">SwiftUI</title>
+            <link>https://developer.apple.com/news/?id=06032019b</link>
+            <guid>https://developer.apple.com/news/?id=06032019b</guid>
+            <description>SwiftUI is an innovative new way to build user interfaces across all Apple platforms, so you can create better apps with less code. With a declarative Swift syntax that's easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>SwiftUI is an innovative new way to build user interfaces across all Apple platforms, so you can create better apps with less code. With a declarative Swift syntax that's easy to read and natural to write, SwiftUI works seamlessly with new Xcode design tools to keep your code and design perfectly in sync. Automatic support for Dynamic Type, Dark Mode, localization, and accessibility means your first line of SwiftUI code is already the most powerful UI code you’ve ever written.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/xcode/swiftui/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "3" name = "Apple 3" location = "United States of America (USA)">Bring Your iPad App to Mac</title>
+            <link>https://developer.apple.com/news/?id=06032019c</link>
+            <guid>https://developer.apple.com/news/?id=06032019c</guid>
+            <description>Now it’s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code, so any changes you make translate to both platforms. And your newly created Mac app runs natively, utilizing the same frameworks, resources, and even runtime environment as apps built just for Mac.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Now it’s incredibly simple to start building a native Mac app from your current iPad app. The beta version of Xcode 11 is all you need. Your Mac and iPad apps share the same project and source code, so any changes you make translate to both platforms. And your newly created Mac app runs natively, utilizing the same frameworks, resources, and even runtime environment as apps built just for Mac.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/ipad-apps-for-mac/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "4" name = "Apple 4" location = "United States of America (USA)">Sign In with Apple </title>
+            <link>https://developer.apple.com/news/?id=06032019d</link>
+            <guid>https://developer.apple.com/news/?id=06032019d</guid>
+            <description>Now users can sign in to your apps and websites with their Apple ID, and can even use Face ID or Touch ID. With privacy and security features, Sign In with Apple is a great way to help your users set up an account and get started right away.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Now users can sign in to your apps and websites with their Apple ID, and can even use Face ID or Touch ID. With privacy and security features, Sign In with Apple is a great way to help your users set up an account and get started right away.</p></p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/sign-in-with-apple/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "5" name = "Apple 5" location = "United States of America (USA)">Machine Learning</title>
+            <link>https://developer.apple.com/news/?id=06032019e</link>
+            <guid>https://developer.apple.com/news/?id=06032019e</guid>
+            <description>Core ML 3 seamlessly uses the CPU, GPU, and Neural Engine to provide maximum performance and efficiency, and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build, train, and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Core ML 3 seamlessly uses the CPU, GPU, and Neural Engine to provide maximum performance and efficiency, and lets you integrate the latest cutting-edge models into your apps. The new Create ML app lets you build, train, and deploy machine learning models with no machine learning expertise required. Take advantage of on-device model training and a gallery of curated models.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/machine-learning/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "6" name = "Apple 6" location = "United States of America (USA)">Augmented Reality</title>
+            <link>https://developer.apple.com/news/?id=06032019f</link>
+            <guid>https://developer.apple.com/news/?id=06032019f</guid>
+            <description>ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app, the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world, and much more. It's easy to prototype and produce AR experiences with Reality Composer — a powerful new app that lets you easily create AR experiences, and RealityKit — a new high-level augmented reality framework.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>ARKit 3 delivers an incredible awareness of people with the ability to integrate human movement into your app, the new People Occlusion feature that lets AR content realistically pass behind and in front of people in the real world, and much more. It's easy to prototype and produce AR experiences with Reality Composer — a powerful new app that lets you easily create AR experiences, and RealityKit — a new high-level augmented reality framework.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/augmented-reality/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "7" name = "Apple 7" location = "United States of America (USA)">Siri</title>
+            <link>https://developer.apple.com/news/?id=06032019g</link>
+            <guid>https://developer.apple.com/news/?id=06032019g</guid>
+            <description>Use the latest advances in Siri to provide an interactive voice experience with follow-up questions, additional shortcut customization, and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in, provide directions in Maps, add the event to Calendar, and more. And with the Shortcuts app built in to iOS 13, it's even faster for users to find, use, and combine shortcuts.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Use the latest advances in Siri to provide an interactive voice experience with follow-up questions, additional shortcut customization, and audio content playback. Your apps can let Siri know when a user makes a reservation so Siri can remind them to check in, provide directions in Maps, add the event to Calendar, and more. And with the Shortcuts app built in to iOS 13, it's even faster for users to find, use, and combine shortcuts.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/siri/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "8" name = "Apple 8" location = "United States of America (USA)">Feedback Assistant </title>
+            <link>https://developer.apple.com/news/?id=06032019h</link>
+            <guid>https://developer.apple.com/news/?id=06032019h</guid>
+            <description>You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac, which features automatic on-device diagnostics, remote bug filing, more detailed bug forms, and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now submit developer feedback and file bug reports to Apple using the native Feedback Assistant app for iOS and Mac, which features automatic on-device diagnostics, remote bug filing, more detailed bug forms, and more bug statuses. You can also use the Feedback Assistant website. Feedback Assistant replaces Bug Reporter.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/bug-reporting/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "9" name = "Apple 9" location = "United States of America (USA)">Notarization Requirement for Mac Software</title>
+            <link>https://developer.apple.com/news/?id=06032019i</link>
+            <guid>https://developer.apple.com/news/?id=06032019i</guid>
+            <description>Mac apps, installer packages, and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on macOS Catalina. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.Learn more</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Mac apps, installer packages, and kernel extensions that are signed with Developer ID must also be notarized by Apple in order to run on macOS Catalina. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "10" name = "Apple 10" location = "United States of America (USA)">Updates to the App Store Review Guidelines</title>
+            <link>https://developer.apple.com/news/?id=06032019j</link>
+            <guid>https://developer.apple.com/news/?id=06032019j</guid>
+            <description>The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful, we sometimes need to update the App Store Review Guidelines.</description>
+            <pubDate>Mon, 03 Jun 2019 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>The App Store is dedicated to the best store experience for everyone. In order to continue providing a safe experience for users and a great opportunity for developers to be successful, we sometimes need to update the App Store Review Guidelines.</p><p>Please note these summaries of the latest changes and see the App Store Review Guidelines for full details. All guidelines are now enforced for new and existing apps, unless otherwise indicated.</p><ul class="list"><li><strong>Guidelines 1.3 and 5.1.4.</strong> In order to help keep kids’ data private, apps in the kids category and apps intended for kids cannot include third-party advertising or analytics software and may not transmit data to third parties. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3, 2019.</li><li><strong>Guideline 4.7.</strong> HTML5 games distributed in apps may not provide access to real money gaming, lotteries, or charitable donations, and may not support digital commerce. This functionality is only appropriate for code that’s embedded in the binary and can be reviewed by Apple. This guideline is now enforced for new apps. Existing apps must follow this guideline by September 3, 2019.</li><li><strong>Guideline 5.4.</strong> Because VPN provides access to sensitive data, VPN apps may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy. Certain types of apps — such as those for parental control, content blocking, and security — from approved providers may use the NEVPNManager API.</li><li><strong>Guideline 5.5. (New)</strong> Because MDM provides access to sensitive data, MDM apps must request the mobile device management capability, and may only be offered by commercial enterprises, such as business organizations, educational institutions, or government agencies, and, in limited cases, companies utilizing MDM for parental controls. MDM apps may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy.</li><li><strong>Guideline 5.1.3(i).</strong> Apps may use a user’s health or fitness data to provide a benefit directly to that user, such as a reduced insurance premium, if the app is submitted by the entity providing the benefit and the data is not shared with a third party. The developer must also disclose to the user the specific health data collected from the device.</li><li><strong>Guideline 5.1.1(vii) (New).</strong> Apps that compile information from any source that is not directly from the user or without the user’s explicit consent, even public databases, are not permitted on the App Store.</li><li><strong>Guideline 5.1.1(i).</strong> Apps must get consent for data collection, even if the data is considered anonymous at the time of or immediately following collection.</li><li><strong>Guideline 1.1.3.</strong> Apps may not facilitate purchase of ammunition.</li><li><strong>Guideline 4.2.7.</strong> Remote desktop clients now include game consoles owned by the user. Software appearing in the client must be fully executed on the host device.</li></ul><p>Demo videos of app functionality that is geo-locked or otherwise restricted are not accepted. Developers must provide a fully functional app for review.</p><p>Sign In with Apple will be available for beta testing this summer. It will be required as an option for users in apps that support third-party sign-in when it is commercially available later this year.</p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "11" name = "Apple 11" location = "United States of America (USA)">New Notarization Requirements</title>
+            <link>https://developer.apple.com/news/?id=04102019a</link>
+            <guid>https://developer.apple.com/news/?id=04102019a</guid>
+            <description>We're working with developers to create a safer Mac user experience through a process where all software, whether distributed on the App Store or outside of it, is signed or notarized by Apple. With the public release of macOS 10.14.5, we require that all developers creating a Developer ID certificate for the first time notarize their apps, and that all new and updated kernel extensions be notarized as well. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.Learn how to get your software notarized</description>
+            <pubDate>Wed, 10 Apr 2019 14:15:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>We're working with developers to create a safer Mac user experience through a process where all software, whether distributed on the App Store or outside of it, is signed or notarized by Apple. With the public release of macOS 10.14.5, we require that all developers creating a Developer ID certificate for the first time notarize their apps, and that all new and updated kernel extensions be notarized as well. This will help give users more confidence that the software they download and run, no matter where they get it from, is not malware by showing a more streamlined Gatekeeper interface.<p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn how to get your software notarized</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "12" name = "Apple 12" location = "United States of America (USA)">Apple Search Ads Now Available in More Locations</title>
+            <link>https://developer.apple.com/news/?id=03272019a</link>
+            <guid>https://developer.apple.com/news/?id=03272019a</guid>
+            <description>Now you can use Apple Search Ads to reach customers in 46 more countries and regions at the very moment they’re searching for apps like yours. Take advantage of this efficient and easy way to promote your app at the top of relevant App Store search results with a 100 USD credit toward your first app promotion.Learn more about Apple Search Ads</description>
+            <pubDate>Wed, 27 Mar 2019 16:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Now you can use Apple Search Ads to reach customers in 46 more countries and regions at the very moment they’re searching for apps like yours. Take advantage of this efficient and easy way to promote your app at the top of relevant App Store search results with a 100 USD credit toward your first app promotion.</p><p><span class="nowrap"><a href="https://searchads.apple.com?cid=SA-IN-US-DRNWS" class="icon icon-after icon-chevronright">Learn more about Apple&nbsp;Search&nbsp;Ads</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "13" name = "Apple 13" location = "United States of America (USA)">WWDC19 Registration Ends Today</title>
+            <link>https://developer.apple.com/news/?id=03202019b</link>
+            <guid>https://developer.apple.com/news/?id=03202019b</guid>
+            <description>Registration closes on Wednesday, March 20 at 5:00 p.m. PDT. Don’t miss your chance to register for this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.Learn more about WWDC</description>
+            <pubDate>Wed, 20 Mar 2019 08:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Registration closes on Wednesday, March 20 at 5:00 p.m. PDT. Don’t miss your chance to register for this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/"class="icon icon-after icon-chevronright">Learn more about WWDC</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "14" name = "Apple 14" location = "United States of America (USA)">Upcoming App Store Submission Requirements</title>
+            <link>https://developer.apple.com/news/?id=03202019a</link>
+            <guid>https://developer.apple.com/news/?id=03202019a</guid>
+            <description>iOS 12 is now running on more than 80% of devices worldwide. Make sure your app delivers a great user experience by seamlessly integrating with the latest advances in iOS. Starting March 27, 2019, all new apps and app updates for iPhone or iPad, including universal apps, must be built with the iOS 12.1 SDK or later and support iPhone XS Max or the 12.9-inch iPad Pro (3rd generation). Screenshots for these devices will also be required. All new apps and app updates for Apple Watch will need to be built with the watchOS 5.1 SDK or later and support Apple Watch Series 4.Understanding Changes in Memory AccountingiOS 12 and tvOS 12 require apps to use memory far more efficiently than before. If you have difficulty reducing your app’s memory requirements, contact us to request an entitlement for your app to use iOS 11-style memory accounting.Learn more about preparing your apps</description>
+            <pubDate>Wed, 20 Mar 2019 08:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>iOS 12 is now running on more than 80% of devices worldwide. Make sure your app delivers a great user experience by seamlessly integrating with the latest advances in iOS. Starting March 27, 2019, all new apps and app updates for iPhone or iPad, including universal apps, must be built with the iOS 12.1 SDK or later and support iPhone XS Max or the 12.9-inch iPad Pro (3rd generation). Screenshots for these devices will also be required. All new apps and app updates for Apple Watch will need to be built with the watchOS 5.1 SDK or later and support Apple Watch Series 4.</p><p><b>Understanding Changes in Memory Accounting</b><br>iOS 12 and tvOS 12 require apps to use memory far more efficiently than before. If you have difficulty reducing your app’s memory requirements, <a href="https://developer.apple.com/contact/request/memory-accounting/">contact us</a> to request an entitlement for your app to use iOS 11-style memory accounting.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/ios/submit/">Learn more about preparing your apps</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "15" name = "Apple 15" location = "United States of America (USA)">WWDC19 Registration Now Open</title>
+            <link>https://developer.apple.com/news/?id=03142019b</link>
+            <guid>https://developer.apple.com/news/?id=03142019b</guid>
+            <description>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.Learn more about WWDC</description>
+            <pubDate>Thu, 14 Mar 2019 09:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Register by Wednesday, March 20, 2019 at 5:00 p.m. PDT for your chance to join us and thousands of coders, creators, and crazy ones at this year’s Apple Worldwide Developers Conference in San Jose, June 3-7.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/"class="icon icon-after icon-chevronright">Learn more about WWDC</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "16" name = "Apple 16" location = "United States of America (USA)">Apply for a WWDC19 Scholarship</title>
+            <link>https://developer.apple.com/news/?id=03142019a</link>
+            <guid>https://developer.apple.com/news/?id=03142019a</guid>
+            <description>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Apply by Sunday, March 24, 2019 at 5:00 p.m. PDT.Learn more about WWDC Scholarships</description>
+            <pubDate>Thu, 14 Mar 2019 09:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Apply by Sunday, March 24, 2019 at 5:00&nbsp;p.m. PDT.</p><p><span class="nowrap"><a href="https://developer.apple.com/wwdc19/scholarships/"class="icon icon-after icon-chevronright">Learn more about WWDC Scholarships</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "17" name = "Apple 17" location = "United States of America (USA)">Promoting Your Subscriptions with New Offers</title>
+            <link>https://developer.apple.com/news/?id=02222019a</link>
+            <guid>https://developer.apple.com/news/?id=02222019a</guid>
+            <description>Apps with auto-renewable subscriptions will soon be able to provide a discounted price for existing or previously subscribed customers. Subscription offers can help re-engage subscribers who have canceled their subscriptions or promote an upgrade to another subscription at a special price. Make sure your offers are ready once this feature is publicly available. Download the latest Xcode 10.2 beta, implement the new StoreKit APIs, and test on the latest beta version of iOS 12.2, macOS 10.14.4, and tvOS 12.2.Learn how to provide offers for subscriptions</description>
+            <pubDate>Fri, 22 Feb 2019 12:45:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Apps with auto-renewable subscriptions will soon be able to provide a discounted price for existing or previously subscribed customers. Subscription offers can help re-engage subscribers who have canceled their subscriptions or promote an upgrade to another subscription at a special price. Make sure your offers are ready once this feature is publicly available. Download the latest Xcode 10.2 beta, implement the new StoreKit APIs, and test on the latest beta version of iOS 12.2, macOS 10.14.4, and tvOS 12.2.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/subscriptions/#subscription-offers">Learn how to provide offers for subscriptions</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "18" name = "Apple 18" location = "United States of America (USA)">New Design Resources Now Available</title>
+            <link>https://developer.apple.com/news/?id=02212019a</link>
+            <guid>https://developer.apple.com/news/?id=02212019a</guid>
+            <description>Make sure your iOS and watchOS apps continue to deliver outstanding user experiences. Take advantage of new Siri Shortcuts design templates, the SF Compact Rounded font for watchOS, and the watchOS design kit for Adobe XD. You can also get updated design templates for iOS Home Screen, Notifications, Widgets, and Home Screen Quick Actions.Learn more</description>
+            <pubDate>Thu, 21 Feb 2019 09:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Make sure your iOS and watchOS apps continue to deliver outstanding user experiences. Take advantage of new Siri Shortcuts design templates, the SF Compact Rounded font for watchOS, and the watchOS design kit for Adobe XD. You can also get updated design templates for iOS Home Screen, Notifications, Widgets, and Home Screen Quick Actions.</p><p><span class="nowrap"><a href="https://developer.apple.com/design/whats-new/" class="icon icon-after icon-chevronright">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "19" name = "Apple 19" location = "United States of America (USA)">Upcoming Two-Factor Authentication Requirement for Account Holders</title>
+            <link>https://developer.apple.com/news/?id=02202019a</link>
+            <guid>https://developer.apple.com/news/?id=02202019a</guid>
+            <description>In an effort to keep accounts more secure, developers with the Account Holder role in a developer program will need to enable two-factor authentication to sign in to their Apple Developer account and Certificates, Identifiers &amp; Profiles starting February 27, 2019. This extra layer of security for your Apple ID helps ensure that you’re the only person who can access your account.Learn more about this requirement</description>
+            <pubDate>Wed, 20 Feb 2019 08:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>In an effort to keep accounts more secure, developers with the Account Holder role in a developer program will need to enable two-factor authentication to sign in to their Apple Developer account and Certificates, Identifiers &amp; Profiles starting February 27, 2019. This extra layer of security for your Apple ID helps ensure that you’re the only person who can access your account.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/support/account/authentication/">Learn more about this requirement</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "20" name = "Apple 20" location = "United States of America (USA)">Upcoming Changes for Organization Teams</title>
+            <link>https://developer.apple.com/news/?id=01182019a</link>
+            <guid>https://developer.apple.com/news/?id=01182019a</guid>
+            <description>Starting February 12, 2019, managing your organization’s team in the Apple Developer Program will be simpler. Teams will be unified across the Apple Developer website and App Store Connect, with one team and one set of roles. Find out how roles on your team may change and make updates if needed.Learn more about these changes</description>
+            <pubDate>Fri, 18 Jan 2019 13:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Starting February 12, 2019, managing your organization’s team in the Apple Developer Program will be simpler. Teams will be unified across the Apple Developer website and App Store Connect, with one team and one set of roles. Find out how roles on your team may change and make updates if needed.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/support/teams/">Learn more about these changes</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "21" name = "Apple 21" location = "United States of America (USA)">Salesforce SDK Now Optimized for iOS</title>
+            <link>https://developer.apple.com/news/?id=01092019a</link>
+            <guid>https://developer.apple.com/news/?id=01092019a</guid>
+            <description>Create engaging, native apps for iPhone and iPad that connect to the Salesforce platform. Optimized for Swift and iOS 12, the rebuilt SDK brings together the latest in modern programming with powerful developer tools to transform customer experiences.Get started with the SDK</description>
+            <pubDate>Wed, 09 Jan 2019 13:30:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Create engaging, native apps for iPhone and iPad that connect to the Salesforce platform. Optimized for Swift and iOS 12, the rebuilt SDK brings together the latest in modern programming with powerful developer tools to transform customer experiences.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://github.com/forcedotcom/SalesforceMobileSDK-iOS">Get started with the SDK</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "22" name = "Apple 22" location = "United States of America (USA)">Mac App Analytics Now Available in App Store Connect</title>
+            <link>https://developer.apple.com/news/?id=12132018b</link>
+            <guid>https://developer.apple.com/news/?id=12132018b</guid>
+            <description>Your app data from the new Mac App Store on macOS Mojave is now available in App Store Connect. Now you can find out how many times your app was seen on the Mac App Store, how many times your product page was viewed, and how many new customers downloaded your app. You can also see sales numbers for in-app purchases as well as for paying users, and more.Learn more about App Analytics</description>
+            <pubDate>Thu, 13 Dec 2018 13:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Your app data from the new Mac App Store on macOS Mojave is now available in App&nbsp;Store&nbsp;Connect. Now you can find out how many times your app was seen on the Mac&nbsp;App&nbsp;Store, how many times your product page was viewed, and how many new customers downloaded your app. You can also see sales numbers for in-app purchases as well as for paying users, and more.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/analytics/">Learn more about App Analytics</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "23" name = "Apple 23" location = "United States of America (USA)">Localize Your Product Page in More Languages</title>
+            <link>https://developer.apple.com/news/?id=12132018a</link>
+            <guid>https://developer.apple.com/news/?id=12132018a</guid>
+            <description>You can now provide localized metadata for your App Store product page in any of the following languages when you submit a new version of your app: Catalan, Croatian, Czech, Hindi, Hungarian, Polish, Romanian, Slovak, and Ukrainian.Learn how to make the most of your product page</description>
+            <pubDate>Thu, 13 Dec 2018 12:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now provide localized metadata for your App Store product page in any of the following languages when you submit a new version of your app: Catalan, Croatian, Czech, Hindi, Hungarian, Polish, Romanian, Slovak, and Ukrainian.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/product-page/">Learn how to make the most of your product page</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "24" name = "Apple 24" location = "United States of America (USA)">Apple Pay Has Expanded to Germany</title>
+            <link>https://developer.apple.com/news/?id=12112018a</link>
+            <guid>https://developer.apple.com/news/?id=12112018a</guid>
+            <description>You can now support Apple Pay for your customers in Germany, providing an easy and secure way for them to pay within your apps and websites.Learn more about Apple Pay</description>
+            <pubDate>Tue, 11 Dec 2018 14:30:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now support Apple Pay for your customers in Germany, providing an easy and secure way for them to pay within your apps and websites.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/"class="more">Learn more about Apple Pay</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "25" name = "Apple 25" location = "United States of America (USA)">App Store Connect Holiday Schedule </title>
+            <link>https://developer.apple.com/news/?id=12102018a</link>
+            <guid>https://developer.apple.com/news/?id=12102018a</guid>
+            <description>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.Submit your apps for review</description>
+            <pubDate>Mon, 10 Dec 2018 10:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>As a reminder, new apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/submissions/">Submit your apps for review</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "26" name = "Apple 26" location = "United States of America (USA)">App Store Best of 2018</title>
+            <link>https://developer.apple.com/news/?id=12032018a</link>
+            <guid>https://developer.apple.com/news/?id=12032018a</guid>
+            <description>Congratulations to the developers featured in the App Store Best of 2018. This showcase honors our favorite apps and games on the App Store, and celebrates the amazing experiences that developers have created for Apple platforms.See all the featured apps and games</description>
+            <pubDate>Mon, 03 Dec 2018 21:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2018. This showcase honors our favorite apps and games on the App&nbsp;Store, and celebrates the amazing experiences that developers have created for Apple platforms.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/best-of-2018/">See all the featured apps and games</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "27" name = "Apple 27" location = "United States of America (USA)">Upcoming Changes for Mac Software Signed with Developer ID</title>
+            <link>https://developer.apple.com/news/?id=11302018a</link>
+            <guid>https://developer.apple.com/news/?id=11302018a</guid>
+            <description>Give users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they'll see a more streamlined Gatekeeper dialog and trust that it does not contain known malware. Starting spring of 2019, macOS Mojave will more prominently highlight notarization status.  In an upcoming macOS release, Gatekeeper will require Developer ID–signed software to be notarized by Apple. Learn more and view new documentation</description>
+            <pubDate>Mon, 03 Dec 2018 20:00:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Give users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they'll see a more streamlined Gatekeeper dialog and trust that it does not contain known malware. Starting spring of 2019, macOS&nbsp;Mojave will more prominently highlight notarization status.  In an upcoming macOS release, Gatekeeper will require Developer ID–signed software to be notarized by Apple. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn more and view new documentation</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "28" name = "Apple 28" location = "United States of America (USA)">App Store Connect Holiday Schedule </title>
+            <link>https://developer.apple.com/news/?id=11272018</link>
+            <guid>https://developer.apple.com/news/?id=11272018</guid>
+            <description>The busiest season on the App Store is almost here. Make sure your apps are up to date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.Learn more about App Store Connect</description>
+            <pubDate>Tue, 27 Nov 2018 12:15:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up to date and ready for the holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other App Store Connect and developer account features will remain available.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/">Learn more about App Store Connect</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "29" name = "Apple 29" location = "United States of America (USA)">Introducing Apple Entrepreneur Camp</title>
+            <link>https://developer.apple.com/news/?id=11262018</link>
+            <guid>https://developer.apple.com/news/?id=11262018</guid>
+            <description>We believe apps for everyone should be made by everyone. Yet research shows that women face unique challenges in technology, especially when starting and leading companies. That’s why we created Apple Entrepreneur Camp for app-driven organizations founded and led by women. With unprecedented access to Apple engineers and leaders, this program provides a two-week technology lab with one-on-one code-level guidance, as well as mentorship, inspiration, and more. Applications are being accepted now. Learn more about Apple Entrepreneur Camp</description>
+            <pubDate>Mon, 26 Nov 2018 13:30:00 PST</pubDate>
+            <content:encoded>
+                <![CDATA[<p>We believe apps for everyone should be made by everyone. Yet research shows that women face unique challenges in technology, especially when starting and leading companies. That’s why we created Apple Entrepreneur Camp for app-driven organizations founded and led by women. With unprecedented access to Apple engineers and leaders, this program provides a two-week technology lab with one-on-one code-level guidance, as well as mentorship, inspiration, and more. Applications are being accepted now. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/entrepreneur-camp/">Learn more about Apple Entrepreneur Camp</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "30" name = "Apple 30" location = "United States of America (USA)">App Store Connect API Now Available</title>
+            <link>https://developer.apple.com/news/?id=11022018</link>
+            <guid>https://developer.apple.com/news/?id=11022018</guid>
+            <description>You can now request access to the new App Store Connect API to automate tasks on App Store Connect. This REST API for internal development, testing, and reporting purposes within your team, lets you customize key parts of your internal workflow. Learn more about the API</description>
+            <pubDate>Fri, 02 Nov 2018 10:15:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now request access to the new App Store Connect API to automate tasks on App Store Connect. This REST API for internal development, testing, and reporting purposes within your team, lets you customize key parts of your internal workflow. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/api/">Learn more about the API</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "31" name = "Apple 31" location = "United States of America (USA)">Updated Certificate for Game Center Authentication</title>
+            <link>https://developer.apple.com/news/?id=10312018a</link>
+            <guid>https://developer.apple.com/news/?id=10312018a</guid>
+            <description>On November 12, 2018, a new certificate for server-based Game Center Player ID verification will be available via the publicKeyUrl property of generateIdentityVerificationSignature, and the previous certificate will expire.Make sure your app always retrieves and uses the current publicKeyUrl value so it automatically uses the new certificate. If your app caches the certificate or hardcodes the certificate URL, it will require an update. Learn more</description>
+            <pubDate>Wed, 31 Oct 2018 16:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>On November 12, 2018, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of<span class="nowrap"><a href="https://developer.apple.com/documentation/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Make sure your app always retrieves and uses the current publicKeyUrl value so it automatically uses the new certificate. If your app caches the certificate or hardcodes the certificate URL, it will require an update. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://forums.developer.apple.com/thread/110431/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "32" name = "Apple 32" location = "United States of America (USA)">Get Ready for the New iPad Pro</title>
+            <link>https://developer.apple.com/news/?id=10302018a</link>
+            <guid>https://developer.apple.com/news/?id=10302018a</guid>
+            <description>Make sure your apps and games take advantage of the new iPad Pro to deliver faster, more responsive experiences like never before. The new all-screen design goes from edge to edge. Face ID works seamlessly in portrait or landscape. The new A12X Bionic chip outperforms the vast majority of portable PCs, runs pro apps, and enables stunning augmented reality experiences. And with support for accessories like the second-generation Apple Pencil and Smart Keyboard Folio, iPad Pro represents the biggest change to iPad ever.Learn about updating your iPad appsWatch the new videos</description>
+            <pubDate>Tue, 30 Oct 2018 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Make sure your apps and games take advantage of the new iPad Pro to deliver faster, more responsive experiences like never before. The new all-screen design goes from edge to edge. Face ID works seamlessly in portrait or landscape. The new A12X Bionic chip outperforms the vast majority of portable PCs, runs pro apps, and enables stunning augmented reality experiences. And with support for accessories like the second-generation Apple Pencil and Smart Keyboard Folio, iPad Pro represents the biggest change to iPad ever.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/ipad/">Learn about updating your iPad apps</a></span></p><p><span class="nowrap"><a class="icon icon-after icon-playcircle" href="https://developer.apple.com/videos/">Watch the new videos</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "33" name = "Apple 33" location = "United States of America (USA)">Get Your Mac Software Notarized</title>
+            <link>https://developer.apple.com/news/?id=10192018a</link>
+            <guid>https://developer.apple.com/news/?id=10192018a</guid>
+            <description>macOS Mojave is here. Give Mac users even more confidence in your software distributed outside the Mac App Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they’ll see a more streamlined Gatekeeper dialog and have confidence that it is not known malware.Download Xcode 10 and submit your software today. In an upcoming release of macOS, Gatekeeper will require Developer ID–signed software to be notarized by Apple. Learn about getting your software notarized</description>
+            <pubDate>Fri, 19 Oct 2018 09:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>macOS Mojave is here. Give Mac users even more confidence in your software distributed outside the Mac&nbsp;App&nbsp;Store by submitting it to Apple to be notarized. When users on macOS Mojave first open a notarized app, installer package, or disk image, they’ll see a more streamlined Gatekeeper dialog and have confidence that it is not known malware.</p><p>Download Xcode 10 and submit your software today. In an upcoming release of macOS, Gatekeeper will require Developer ID–signed software to be notarized by Apple. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/developer-id/">Learn about getting your software notarized</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "34" name = "Apple 34" location = "United States of America (USA)">MapKit JS Dashboard Now Available</title>
+            <link>https://developer.apple.com/news/?id=10172018a</link>
+            <guid>https://developer.apple.com/news/?id=10172018a</guid>
+            <description>MapKit JS lets you add Apple Maps to webpages, complete with annotations, overlays, and interfaces to services such as search and directions. And now, you can track your website’s use of Apple Maps services with the new MapKit JS Dashboard. Monitor map initializations and service requests in real-time, or see up to a year of activity by day, week, month, or year.Learn more about MapKit JS</description>
+            <pubDate>Wed, 17 Oct 2018 10:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>MapKit JS lets you add Apple Maps to webpages, complete with annotations, overlays, and interfaces to services such as search and directions. And now, you can track your website’s use of Apple Maps services with the new MapKit JS Dashboard. Monitor map initializations and service requests in real-time, or see up to a year of activity by day, week, month, or year.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/maps/mapkitjs/">Learn more about MapKit JS</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "35" name = "Apple 35" location = "United States of America (USA)">App Bundles Now Support Mac Apps and Free Apps with Subscriptions</title>
+            <link>https://developer.apple.com/news/?id=10162018</link>
+            <guid>https://developer.apple.com/news/?id=10162018</guid>
+            <description>App bundles make it easy for customers to buy up to 10 of your apps in a single purchase. And now, you can create app bundles for Mac apps or free apps that offer an auto-renewable subscription to access all apps in the bundle. Learn how to set up app bundles and effectively market them on your App Store product page.Learn about offering app bundles</description>
+            <pubDate>Tue, 16 Oct 2018 13:15:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>App bundles make it easy for customers to buy up to 10 of your apps in a single purchase. And now, you can create app bundles for Mac apps or free apps that offer an auto-renewable subscription to access all apps in the bundle. Learn how to set up app bundles and effectively market them on your App Store product page.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/app-bundles/">Learn about offering app bundles</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "36" name = "Apple 36" location = "United States of America (USA)">Invite Beta Testers with a TestFlight Public Link</title>
+            <link>https://developer.apple.com/news/?id=09262018a</link>
+            <guid>https://developer.apple.com/news/?id=09262018a</guid>
+            <description>Now it’s even easier to get valuable feedback on your app before releasing it on the App Store for iPhone, iPad, and Apple TV. Simply enable a public link for your app in App Store Connect that leads to an invitation to test in TestFlight. Share the link to let anyone discover the beta version of your app.Learn about TestFlight beta testing</description>
+            <pubDate>Wed, 26 Sep 2018 15:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Now it’s even easier to get valuable feedback on your app before releasing it on the App&nbsp;Store for iPhone, iPad, and Apple TV. Simply enable a public link for your app in App&nbsp;Store Connect that leads to an invitation to test in TestFlight. Share the link to let anyone discover the beta version of your app.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/testflight/">Learn about TestFlight beta testing</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "37" name = "Apple 37" location = "United States of America (USA)">New Videos Now Available</title>
+            <link>https://developer.apple.com/news/?id=09132018a</link>
+            <guid>https://developer.apple.com/news/?id=09132018a</guid>
+            <description>Get all the design and development details you need to optimize your apps for iPhone Xs, iPhone Xs Max, iPhone Xr, and Apple Watch Series 4.Watch the videos</description>
+            <pubDate>Thu, 13 Sep 2018 14:30:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Get all the design and development details you need to optimize your apps for iPhone&nbsp;X<span class="s-caps">s</span>, iPhone&nbsp;X<span class="s-caps">s</span>&nbsp;Max, iPhone&nbsp;X<span class="s-caps">r</span>, and Apple&nbsp;Watch&nbsp;Series&nbsp;4.</p><p><span class="nowrap"><a class="icon icon-after icon-playcircle" href="https://developer.apple.com/videos/">Watch the videos</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "38" name = "Apple 38" location = "United States of America (USA)">Submit Your Apps to the App Store</title>
+            <link>https://developer.apple.com/news/?id=09122018c</link>
+            <guid>https://developer.apple.com/news/?id=09122018c</guid>
+            <description>You can now submit apps that take advantage of the powerful new capabilities in the next release of iOS, watchOS, and tvOS. Build your apps using Xcode 10 GM seed, test with the latest releases of iOS 12, watchOS 5, and tvOS 12, and submit them for review.Starting March 2019, all new apps and app updates for iPhone, including universal apps, will need to be built with the iOS 12 SDK and support iPhone XS Max. All new apps and app updates for Apple Watch will need to be built with the watchOS 5 SDK and support Apple Watch Series 4.Learn about preparing your apps</description>
+            <pubDate>Wed, 12 Sep 2018 15:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now submit apps that take advantage of the powerful new capabilities in the next release of iOS, watchOS, and tvOS. Build your apps using Xcode&nbsp;10 GM seed, test with the latest releases of iOS&nbsp;12, watchOS&nbsp;5, and tvOS&nbsp;12, and submit them for review.</p><p>Starting March 2019, all new apps and app updates for iPhone, including universal apps, will need to be built with the iOS&nbsp;12 SDK and support iPhone X<span class="s-caps">S</span> Max. All new apps and app updates for Apple Watch will need to be built with the watchOS&nbsp;5 SDK and support Apple Watch Series&nbsp;4.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/submissions/">Learn about preparing your apps</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "39" name = "Apple 39" location = "United States of America (USA)">Submit Your Apps to the All-New Mac App Store</title>
+            <link>https://developer.apple.com/news/?id=09122018d</link>
+            <guid>https://developer.apple.com/news/?id=09122018d</guid>
+            <description>The reimagined Mac App Store will soon be arriving with macOS Mojave. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac App Store on macOS Mojave beautifully showcases your apps and makes them even easier to find. You also have more opportunities to display your content with subtitles, up to 10 screenshots, and up to three app previews per localization. Download Xcode 10 GM seed, build your apps for macOS Mojave, test, and submit for review.Learn about preparing your Mac apps</description>
+            <pubDate>Wed, 12 Sep 2018 15:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>The reimagined Mac App Store will soon be arriving with macOS&nbsp;Mojave. Organized around the specific things customers love to do on Mac, along with insightful stories, curated collections, and videos, the Mac&nbsp;App&nbsp;Store on macOS&nbsp;Mojave beautifully showcases your apps and makes them even easier to find. You also have more opportunities to display your content with subtitles, up to 10 screenshots, and up to three app previews per localization. Download Xcode&nbsp;10&nbsp;GM&nbsp;seed, build your apps for macOS&nbsp;Mojave, test, and submit for review.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/macos/submit/">Learn about preparing your Mac apps</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "40" name = "Apple 40" location = "United States of America (USA)">Get Your Apps Ready for the Next Level</title>
+            <link>https://developer.apple.com/news/?id=09122018a</link>
+            <guid>https://developer.apple.com/news/?id=09122018a</guid>
+            <description>iPhone XS, iPhone XS Max, and iPhone XR feature a trio of all-screen displays paired with A12 Bionic and the next-generation Neural Engine. A12 Bionic is the smartest and most powerful chip ever in a smartphone, and is designed for performance in mind with Core ML, ARKit, Metal, and more. And now Face ID works even faster than before to securely and privately unlock, authenticate, and pay.Learn more</description>
+            <pubDate>Wed, 12 Sep 2018 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>iPhone X<span class="s-caps">S</span>, iPhone X<span class="s-caps">S</span> Max, and iPhone X<span class="s-caps">R</span> feature a trio of all-screen displays paired with A12 Bionic and the next-generation Neural Engine. A12 Bionic is the smartest and most powerful chip ever in a smartphone, and is designed for performance in mind with Core&nbsp;ML, ARKit, Metal, and more. And now Face ID works even faster than before to securely and privately unlock, authenticate, and pay.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/iphone/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "41" name = "Apple 41" location = "United States of America (USA)">Introducing Apple Watch Series 4</title>
+            <link>https://developer.apple.com/news/?id=09122018b</link>
+            <guid>https://developer.apple.com/news/?id=09122018b</guid>
+            <description>Bring incredible experiences to the wrist with the expanded display and performance enhancements of Apple Watch Series 4. Show more content at a glance, and display more information in full color with vivid detail using new complication types on the Infograph and Infograph Modular face. And with watchOS 5, you can take advantage of interactive notifications, access to the Siri watch face, audio controls, and more.Learn more</description>
+            <pubDate>Wed, 12 Sep 2018 12:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Bring incredible experiences to the wrist with the expanded display and performance enhancements of Apple Watch Series&nbsp;4. Show more content at a glance, and display more information in full color with vivid detail using new complication types on the Infograph and Infograph Modular face. And with watchOS&nbsp;5, you can take advantage of interactive notifications, access to the Siri watch face, audio controls, and more.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/watchos/">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "42" name = "Apple 42" location = "United States of America (USA)">Developer Insights Series: Using Subscriptions</title>
+            <link>https://developer.apple.com/news/?id=09102018a</link>
+            <guid>https://developer.apple.com/news/?id=09102018a</guid>
+            <description>Auto-renewable subscriptions give users access to content or services within an app on an ongoing basis. The developers behind Elevate, Dropbox, Calm, and Bumble share how they create great customer experiences by continuing to provide value throughout the entire subscription lifecycle.Watch the film</description>
+            <pubDate>Mon, 10 Sep 2018 15:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Auto-renewable subscriptions give users access to content or services within an app on an ongoing basis. The developers behind Elevate, Dropbox, Calm, and Bumble share how they create great customer experiences by continuing to provide value throughout the entire subscription lifecycle.</p><p><span class="nowrap"><a class="icon icon-after icon-playcircle" href="https://developer.apple.com/videos/play/insights/112/">Watch the film</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "43" name = "Apple 43" location = "United States of America (USA)">Korean Won Now Accepted on the App Store</title>
+            <link>https://developer.apple.com/news/?id=09052018a</link>
+            <guid>https://developer.apple.com/news/?id=09052018a</guid>
+            <description>Starting today, the pricing for apps and in-app purchases in the Republic of Korea will change from U.S. Dollars to Korean Republic  Won (KRW). While your proceeds from sales in the Republic of Korea will also change to KRW, you will continue to be paid in the currency you selected for your bank in App Store Connect.</description>
+            <pubDate>Wed, 05 Sep 2018 10:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Starting today, the pricing for apps and in-app purchases in the Republic of Korea will change from U.S. Dollars to Korean Republic  Won (KRW). While your proceeds from sales in the Republic of Korea will also change to KRW, you will continue to be paid in the currency you selected for your bank in App Store Connect.</p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "44" name = "Apple 44" location = "United States of America (USA)">Privacy Policy Reminder</title>
+            <link>https://developer.apple.com/news/?id=08312018a</link>
+            <guid>https://developer.apple.com/news/?id=08312018a</guid>
+            <description>As a reminder, in June the App Store Review Guidelines were updated to require a privacy policy for all new apps and app updates as part of the app review process. Starting October 3, 2018, App Store Connect will require a privacy policy for all new apps and app updates before they can be submitted for distribution on the App Store. In addition, your app’s privacy policy link or text will only be editable when you submit a new version of your app. Learn more about privacy policy guidelines</description>
+            <pubDate>Fri, 31 Aug 2018 13:30:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>As a reminder, in June the App Store Review Guidelines were updated to require a privacy policy for all new apps and app updates as part of the app review process. Starting October 3, 2018, App Store Connect will require a privacy policy for all new apps and app updates before they can be submitted for distribution on the App&nbsp;Store. In addition, your app’s privacy policy link or text will only be editable when you submit a new version of your app. </p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store/review/guidelines/#privacy">Learn more about privacy policy guidelines</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "45" name = "Apple 45" location = "United States of America (USA)">Search Ads Now Available in More Countries</title>
+            <link>https://developer.apple.com/news/?id=08222018a</link>
+            <guid>https://developer.apple.com/news/?id=08222018a</guid>
+            <description>Your app promotion on the App Store can now reach people in 13 countries across North America, Europe, and Asia Pacific. Discover this efficient and easy way to help people find your app at the top of relevant search results on the App Store.Learn more about Search Ads</description>
+            <pubDate>Wed, 22 Aug 2018 14:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Your app promotion on the App&nbsp;Store can now reach people in 13 countries across North America, Europe, and Asia Pacific. Discover this efficient and easy way to help people find your app at the top of relevant search results on the App&nbsp;Store.</p><p><span class="nowrap"><a href=" https://searchads.apple.com?cid=SA-IN-US-DRNWS" class="icon icon-after icon-chevronright">Learn more about Search&nbsp;Ads</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "46" name = "Apple 46" location = "United States of America (USA)">WWDC18 Video Subtitles Now in More Languages</title>
+            <link>https://developer.apple.com/news/?id=08082018a</link>
+            <guid>https://developer.apple.com/news/?id=08082018a</guid>
+            <description>You can now watch all the session videos from this year’s Apple Worldwide Developers Conference with Japanese and Simplified Chinese subtitles.View WWDC18 videos</description>
+            <pubDate>Wed, 08 Aug 2018 15:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now watch all the session videos from this year’s Apple Worldwide Developers Conference with Japanese and Simplified Chinese subtitles.</p><p><a href="https://developer.apple.com/videos/wwdc2018/" class="icon icon-after icon-chevronright">View WWDC18 videos</a></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "47" name = "Apple 47" location = "United States of America (USA)">Search Ads is Expanding to More Countries</title>
+            <link>https://developer.apple.com/news/?id=07272018a</link>
+            <guid>https://developer.apple.com/news/?id=07272018a</guid>
+            <description>You can now create campaigns for apps on the App Store in France, Germany, Italy, Spain, Japan, and South Korea. Search Ads is an efficient and easy way to help people discover your app at the top of relevant search results on the App Store.Learn more about Search Ads</description>
+            <pubDate>Fri, 27 Jul 2018 02:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>You can now create campaigns for apps on the App&nbsp;Store in France, Germany, Italy, Spain, Japan, and South Korea. Search Ads is an efficient and easy way to help people discover your app at the top of relevant search results on the App&nbsp;Store.</p><p><span class="nowrap"><a href="https://searchads.apple.com/?cid=SA-ADN-INT-EXPANSION" class="icon icon-after icon-chevronright">Learn more about Search Ads</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "48" name = "Apple 48" location = "United States of America (USA)">New Design Resources Now Available</title>
+            <link>https://developer.apple.com/news/?id=07262018a</link>
+            <guid>https://developer.apple.com/news/?id=07262018a</guid>
+            <description>It’s never been easier to design apps for Mac and Apple Watch. The Human Interface Guidelines now include a full set of essential AppKit UI elements for designing Mac apps in Sketch or Photoshop, as well as dozens of new UI elements for watchOS apps, watch face templates for designing complications, a color guide, and new text styles.Learn more</description>
+            <pubDate>Thu, 26 Jul 2018 08:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>It’s never been easier to design apps for Mac and Apple&nbsp;Watch. The Human Interface Guidelines now include a full set of essential AppKit UI elements for designing Mac apps in Sketch or Photoshop, as well as dozens of new UI elements for watchOS apps, watch face templates for designing complications, a color guide, and new text styles.</p><p><span class="nowrap"><a href=" https://developer.apple.com/design/resources/" class="icon icon-after icon-chevronright">Learn more</a></span></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "49" name = "Apple 49" location = "United States of America (USA)">WWDC18 Video Transcripts Now Available</title>
+            <link>https://developer.apple.com/news/?id=07092018a</link>
+            <guid>https://developer.apple.com/news/?id=07092018a</guid>
+            <description>Take advantage of transcripts to quickly discover and share information presented in WWDC18 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.See this year’s WWDC videos</description>
+            <pubDate>Mon, 09 Jul 2018 15:30:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC18 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time.</p><p><a href="https://developer.apple.com/videos/wwdc2018/" class="icon icon-after icon-chevronright">See this year’s WWDC videos</a></p>]]>
+            </content:encoded>
+        </item>
+        <item>
+            <title id = "50" name = "Apple 50" location = "United States of America (USA)">Introducing App Store Connect</title>
+            <link>https://developer.apple.com/news/?id=06042018</link>
+            <guid>https://developer.apple.com/news/?id=06042018</guid>
+            <description>For app developers and their teams, iTunes Connect is now called App Store Connect. And with the new App Store Connect app, it’s even easier to manage your apps, view trends, respond to reviews, and reply to active Resolution Center issues, all on your iOS device. You can also receive push notifications for changes in your app status and new customer reviews.Learn more about App Store Connect</description>
+            <pubDate>Wed, 06 Jun 2018 11:00:00 PDT</pubDate>
+            <content:encoded>
+                <![CDATA[<p>For app developers and their teams, iTunes Connect is now called App Store Connect. And with the new App Store Connect app, it’s even easier to manage your apps, view trends, respond to reviews, and reply to active Resolution Center issues, all on your iOS device. You can also receive push notifications for changes in your app status and new customer reviews.</p><p><span class="nowrap"><a class="icon icon-after icon-chevronright" href="https://developer.apple.com/app-store-connect/">Learn more about App Store Connect</a></span></p>]]>
+            </content:encoded>
+        </item>
+    </channel>
+</rss>
